@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Olá 👋!
 
 ###
 
@@ -9,6 +9,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Victor-Wagner-RD&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=chartreuse-dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
 </div>
 
+##
 ###
 
 <br clear="both">
@@ -35,8 +36,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
 </div>
 
+##
 ###
 
-<img src="https://raw.githubusercontent.com/Victor-Wagner-RD/Victor-Wagner-RD/output/snake.svg" alt="Snake animation" />
-
-###
